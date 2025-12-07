@@ -1,6 +1,5 @@
 # LaLiga_database
 Creating own database for tracking la liga
-# Отчет по проекту "База данных La Liga с GUI"
 
 ## 1. Описание структуры базы данных
 
